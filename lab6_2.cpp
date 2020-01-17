@@ -25,6 +25,6 @@ getline(cin,day);
 cout<<"Fahsai: "<<day<<"....that is OK!!! I'm looking forward to watch "<<move<<" with you."<<N;
 cout<<name<<": ";
 getline(cin,UU);
-cout<<"Fahsai: 555+ see you "<<day<<". Bye Bye  \(^ ^)/"<<N;
+cout<<"Fahsai: 555+ see you "<<day<<". Bye Bye  \\(^ ^)/"<<N;
 }
 
